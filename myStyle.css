@@ -1,0 +1,44 @@
+
+      body {
+        background-color: #328ce7;
+      }
+      .row{
+        margin-bottom: 10px;
+      }
+      .btnArr {
+        margin: auto;
+        margin-left: 10%;
+        border-radius: unset;
+        width: 90px;
+        background-color: #bfbfbf;
+        border-color: white black black white;
+        border-style: solid;
+        border-width: 1px 1.5px 1.5px 1px;
+      }
+      .btnArr:hover {
+      	background-color: #b3b3b3;
+
+      }
+      .form-container {
+        width: 100%;
+        max-width: 420px;
+        margin: 40px auto;
+        padding: 20px;
+        background: #bfbfbf;
+        border-radius: unset;
+        
+        border-color: white black black white;
+        border-style: solid;
+        border-width: 1px;
+      }
+      .demo2 {
+        color:red;
+        font-weight: bold;
+      }
+      .form-control {
+        border-radius: unset;
+        border-color: #595959 white white #595959;
+        border-style: solid;
+        border-width: 0.5px;
+
+      }
